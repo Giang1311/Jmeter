@@ -1,4 +1,4 @@
-![image](https://github.com/Giang1311/Jmeter/assets/96896545/5326da9c-dd24-4891-98fd-c32cb03c48fc)# JMeter
+# JMeter
 ## Kiểm tra hiệu năng trang web
 ### Mục tiêu:
 
